@@ -19,7 +19,7 @@ loginButton.addEventListener('click', function() {
 
     // Verificar las credenciales del usuario aquí
     // En este ejemplo, verificamos que el nombre de usuario sea "nombre" y la contraseña "1405"
-    if (username === 'noelia' && password === '1005') {
+    if (username === 'Noelia' && password === '1005') {
         // Redirigir al usuario si las credenciales son correctas
         window.location.href = 'https://profound-piroshki-19b33e.netlify.app/';
     } else {
